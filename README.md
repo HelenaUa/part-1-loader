@@ -1,4 +1,4 @@
-## Loader Component
+## Part 1: Creating UI Loading Component
 
 Created an animated UI loading component based on the design in Figma.  
 The component displays grouped bar animations with staggered delays, creating a smooth loading effect.
